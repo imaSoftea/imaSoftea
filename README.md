@@ -10,4 +10,7 @@
 * Tower Defense RPG
 
 ## Skills!
-* C++, C, C#, Java, MATLAB
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,java,matlab)](https://skillicons.dev)
+### Programs
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,unity,blender,ae,ps,pr,wordpress)](https://skillicons.dev)
