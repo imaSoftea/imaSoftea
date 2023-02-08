@@ -5,9 +5,8 @@
 * I love creating things! (especially things I can see with my eyes)
 * I'm a huge nerd for Video Games and Manga!
 
-## Current Projects!
-* Video Game Engine
-* Tower Defense RPG
+## Current Project!
+* Softrace 2.0
 
 ## Skills!
 ### Languages
