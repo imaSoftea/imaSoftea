@@ -3,7 +3,7 @@
 ## About Me!
 * I'm a Computer Science Major at Clemson University!
 * I love creating things! (especially things I can see with my eyes)
-* I'm a huge nerd for Video Games and Manga!
+* Currrently studying to do software engineering in computer graphics or techincal director work.
 
 ## Current Project!
 * Softrace 2.0
